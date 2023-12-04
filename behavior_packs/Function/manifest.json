@@ -1,0 +1,19 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "§9§lKazeDevID",
+        "name": "§aOne Block But Nether",
+        "uuid": "734b2560-5a9d-11ea-82b4-0242ac130003",
+        "min_engine_version": [ 1,8,0 ],
+        "version": [0, 0, 1]
+    },
+    "mi_engine_version": [ 1,8,0 ],
+    "modules": [
+        {
+            "description": "resourcePack.vanilla_server.description",
+            "type": "data",
+            "uuid": "734b279a-5a9d-11ea-82b4-0242ac130003",
+            "version": [0, 0, 1]
+        }
+    ]
+}
